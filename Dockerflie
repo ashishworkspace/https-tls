@@ -1,6 +1,0 @@
-# To setup the environment
-
-FROM fedora
-RUN yum update -y
-RUN yum install openssl openssl-libs httpd -y
-RUN yum install net-tools vim -y
