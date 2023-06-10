@@ -1,5 +1,7 @@
 ## HTTPS-TLS
-Folder strucaure
+#### Initial folder structure:  https://github.com/ashishworkspace/https-tls/tree/initial-fold
+
+### Folder strucaure</br> 
 ```
 pki/
 ├── rootca
